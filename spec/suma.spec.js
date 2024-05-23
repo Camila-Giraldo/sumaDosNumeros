@@ -1,4 +1,4 @@
-const { resta } = require("../suma");
+const { suma } = require("../suma");
 
 describe("Test about dummy function", () => {
   it("should return a + b number", () => {
